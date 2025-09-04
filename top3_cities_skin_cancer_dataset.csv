@@ -1,0 +1,151 @@
+State,City,RankInStateByPopulation,MelanomaIncidence_per100k_2017_2021
+Alabama,Birmingham,1,21.3
+Alabama,Huntsville,2,21.3
+Alabama,Mobile,3,21.3
+Alaska,Anchorage,1,14.8
+Alaska,Fairbanks,2,14.8
+Alaska,Juneau,3,14.8
+Arizona,Phoenix,1,31.4
+Arizona,Tucson,2,31.4
+Arizona,Mesa,3,31.4
+Arkansas,Little Rock,1,22.4
+Arkansas,Fayetteville,2,22.4
+Arkansas,Fort Smith,3,22.4
+California,Los Angeles,1,22.7
+California,San Diego,2,22.7
+California,San Jose,3,22.7
+Colorado,Denver,1,21.4
+Colorado,Colorado Springs,2,21.4
+Colorado,Aurora,3,21.4
+Connecticut,Bridgeport,1,18.5
+Connecticut,Stamford,2,18.5
+Connecticut,New Haven,3,18.5
+Delaware,Wilmington,1,26.7
+Delaware,Dover,2,26.7
+Delaware,Newark,3,26.7
+Florida,Jacksonville,1,26.0
+Florida,Miami,2,26.0
+Florida,Tampa,3,26.0
+Georgia,Atlanta,1,25.0
+Georgia,Columbus,2,25.0
+Georgia,Augusta,3,25.0
+Hawaii,Honolulu,1,23.8
+Hawaii,East Honolulu,2,23.8
+Hawaii,Hilo,3,23.8
+Idaho,Boise,1,30.9
+Idaho,Meridian,2,30.9
+Idaho,Nampa,3,30.9
+Illinois,Chicago,1,23.0
+Illinois,Aurora,2,23.0
+Illinois,Naperville,3,23.0
+Indiana,Indianapolis,1,
+Indiana,Fort Wayne,2,
+Indiana,Evansville,3,
+Iowa,Des Moines,1,31.4
+Iowa,Cedar Rapids,2,31.4
+Iowa,Davenport,3,31.4
+Kansas,Wichita,1,27.6
+Kansas,Overland Park,2,27.6
+Kansas,Kansas City,3,27.6
+Kentucky,Louisville,1,28.2
+Kentucky,Lexington,2,28.2
+Kentucky,Bowling Green,3,28.2
+Louisiana,New Orleans,1,18.2
+Louisiana,Baton Rouge,2,18.2
+Louisiana,Shreveport,3,18.2
+Maine,Portland,1,26.9
+Maine,Lewiston,2,26.9
+Maine,Bangor,3,26.9
+Maryland,Baltimore,1,24.5
+Maryland,Frederick,2,24.5
+Maryland,Gaithersburg,3,24.5
+Massachusetts,Boston,1,17.7
+Massachusetts,Worcester,2,17.7
+Massachusetts,Springfield,3,17.7
+Michigan,Detroit,1,20.4
+Michigan,Grand Rapids,2,20.4
+Michigan,Warren,3,20.4
+Minnesota,Minneapolis,1,37.3
+Minnesota,Saint Paul,2,37.3
+Minnesota,Rochester,3,37.3
+Mississippi,Jackson,1,19.3
+Mississippi,Gulfport,2,19.3
+Mississippi,Southaven,3,19.3
+Missouri,Kansas City,1,19.3
+Missouri,Saint Louis,2,19.3
+Missouri,Springfield,3,19.3
+Montana,Billings,1,27.9
+Montana,Missoula,2,27.9
+Montana,Great Falls,3,27.9
+Nebraska,Omaha,1,28.7
+Nebraska,Lincoln,2,28.7
+Nebraska,Bellevue,3,28.7
+Nevada,Las Vegas,1,22.7
+Nevada,Henderson,2,22.7
+Nevada,North Las Vegas,3,22.7
+New Hampshire,Manchester,1,29.9
+New Hampshire,Nashua,2,29.9
+New Hampshire,Concord,3,29.9
+New Jersey,Newark,1,20.7
+New Jersey,Jersey City,2,20.7
+New Jersey,Paterson,3,20.7
+New Mexico,Albuquerque,1,17.1
+New Mexico,Las Cruces,2,17.1
+New Mexico,Rio Rancho,3,17.1
+New York,New York,1,17.4
+New York,Buffalo,2,17.4
+New York,Yonkers,3,17.4
+North Carolina,Charlotte,1,26.9
+North Carolina,Raleigh,2,26.9
+North Carolina,Greensboro,3,26.9
+North Dakota,Fargo,1,26.3
+North Dakota,Bismarck,2,26.3
+North Dakota,Grand Forks,3,26.3
+Ohio,Columbus,1,25.8
+Ohio,Cleveland,2,25.8
+Ohio,Cincinnati,3,25.8
+Oklahoma,Oklahoma City,1,21.0
+Oklahoma,Tulsa,2,21.0
+Oklahoma,Norman,3,21.0
+Oregon,Portland,1,23.5
+Oregon,Eugene,2,23.5
+Oregon,Salem,3,23.5
+Pennsylvania,Philadelphia,1,20.2
+Pennsylvania,Pittsburgh,2,20.2
+Pennsylvania,Allentown,3,20.2
+Rhode Island,Providence,1,19.8
+Rhode Island,Warwick,2,19.8
+Rhode Island,Cranston,3,19.8
+South Carolina,Charleston,1,22.7
+South Carolina,Columbia,2,22.7
+South Carolina,North Charleston,3,22.7
+South Dakota,Sioux Falls,1,28.8
+South Dakota,Rapid City,2,28.8
+South Dakota,Aberdeen,3,28.8
+Tennessee,Nashville,1,20.4
+Tennessee,Memphis,2,20.4
+Tennessee,Knoxville,3,20.4
+Texas,Houston,1,14.9
+Texas,San Antonio,2,14.9
+Texas,Dallas,3,14.9
+Utah,Salt Lake City,1,41.4
+Utah,West Valley City,2,41.4
+Utah,West Jordan,3,41.4
+Vermont,Burlington,1,35.1
+Vermont,South Burlington,2,35.1
+Vermont,Rutland,3,35.1
+Virginia,Virginia Beach,1,21.1
+Virginia,Chesapeake,2,21.1
+Virginia,Norfolk,3,21.1
+Washington,Seattle,1,25.6
+Washington,Spokane,2,25.6
+Washington,Tacoma,3,25.6
+West Virginia,Charleston,1,23.4
+West Virginia,Huntington,2,23.4
+West Virginia,Morgantown,3,23.4
+Wisconsin,Milwaukee,1,24.3
+Wisconsin,Madison,2,24.3
+Wisconsin,Green Bay,3,24.3
+Wyoming,Cheyenne,1,25.2
+Wyoming,Casper,2,25.2
+Wyoming,Gillette,3,25.2

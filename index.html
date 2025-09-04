@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>US Cities Skin Cancer Risk Map</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        #map { width: 100vw; height: 100vh; }
+        .gm-style .tooltip {
+            position: absolute;
+            background: rgba(255,255,255,0.95);
+            border: 1px solid #888;
+            padding: 8px 12px;
+            border-radius: 4px;
+            pointer-events: none;
+            font-size: 14px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+            display: none;
+            z-index: 10;
+        }
+        .prediction {
+            position: absolute;
+            background: #fffbe6;
+            border: 1px solid #e6c200;
+            padding: 8px 12px;
+            border-radius: 4px;
+            font-size: 15px;
+            pointer-events: none;
+            z-index: 11;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div class="prediction" id="prediction"></div>
+    <script src="us-cities-data.js"></script>
+    <script src="knn.js"></script>
+    <script src="main.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDmXHon-ByHf9AbjEohUwsgtZH-tx-jPnE&callback=initMap"></script>
+</body>
+</html>
